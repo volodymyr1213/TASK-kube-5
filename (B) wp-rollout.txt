@@ -1,0 +1,5 @@
+ Image:          wordpress:4.8-apache
+ Image ID:       docker-pullable://wordpress@sha256:6216f64ab88fc51d311e38c7f69ca3f9aaba621492b4f1fa93ddf63093768845
+   
+ Image:          wordpress:5.0.3-apache
+ Image ID:       docker-pullable://wordpress@sha256:3a71e9cc138f936d5eda53b776dff9f2630daeaab023e8ba506faa75fec98073
